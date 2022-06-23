@@ -1,0 +1,15 @@
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/bin/Debug/net6.0/Al-Quran
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/bin/Debug/net6.0/Al-Quran.deps.json
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/bin/Debug/net6.0/Al-Quran.runtimeconfig.json
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/bin/Debug/net6.0/Al-Quran.dll
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/bin/Debug/net6.0/Al-Quran.pdb
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/obj/Debug/net6.0/Al-Quran.csproj.AssemblyReference.cache
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/obj/Debug/net6.0/Al-Quran.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/obj/Debug/net6.0/Al-Quran.AssemblyInfoInputs.cache
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/obj/Debug/net6.0/Al-Quran.AssemblyInfo.cs
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/obj/Debug/net6.0/Al-Quran.csproj.CoreCompileInputs.cache
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/obj/Debug/net6.0/Al-Quran.dll
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/obj/Debug/net6.0/refint/Al-Quran.dll
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/obj/Debug/net6.0/Al-Quran.pdb
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/obj/Debug/net6.0/Al-Quran.genruntimeconfig.cache
+/home/abdulaziz/Abdulaziz/dotNet Lessons/Al-Quran/obj/Debug/net6.0/ref/Al-Quran.dll
